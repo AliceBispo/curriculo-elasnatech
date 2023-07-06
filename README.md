@@ -6,7 +6,7 @@
         <meta name="author" content="Alice Bispo">
     </head>
     <body>
-       <h1>Curriculo</h1> 
+       <h1>Currículo</h1> 
        <img id="imagem_perfil" src="curriculo-eu.jpg"/>
        <h2>Dados pessoais</h2>
        <p>Nome: Alice Bispo dos Santos</p>
