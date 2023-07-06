@@ -1,5 +1,3 @@
-# curriculo-elasnatech
-
 <!DOCTYPE html>
 
 <html lang="pt-br"> 
@@ -7,7 +5,6 @@
         <title> Curriculo </title>
         <meta charset="utf-8">
         <meta name="author" content="Alice Bispo">
-        <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" data-auto-replace-svg="nest"></script>
     </head>
     <body>
        <h1>Curriculo</h1> 
