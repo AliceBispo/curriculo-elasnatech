@@ -2,7 +2,6 @@
 
 <html lang="pt-br"> 
     <head>
-        <title> Curriculo </title>
         <meta charset="utf-8">
         <meta name="author" content="Alice Bispo">
     </head>
