@@ -16,19 +16,18 @@
        <p>E-mail: alicebispotmi@gmail.com</p>
        <hr>
        <h2>Objetivos</h2>
-       <p>Prucuro estagio nas áreas de Engenharia de Produção, desenvolvimento Web ou Análise de Dados.</p>
+       <p>Procuro estagio nas áreas de Engenharia de Produção, desenvolvimento Web ou Análise de Dados.</p>
        <hr>
        <h2>Formação</h2>
-       <p> 2017 - 2019 Ensino medio completo</p>
+       <p> 2017 - 2019 Ensino médio completo</p>
        <p> 2020 - ... Graduanda em Engenhria de Produção</p>
        <hr>
        <h2>Qualificações e atividades complementares</h2>
-       <p>Comecimento em programaçõ nas linguagens: java, javasscript, python, c#, HTML e CSS. </p>
-       <p>Conhecimento intermediario em excel</p>
-       <p>Atualmente secretaria do WIE - Women in Engineering</p>
+       <p>Conhecimento em programação: java, javasscript, python, c#, HTML e CSS. </p>
+       <p>Conhecimento intermediário em excel</p>
+       <p>Atualmente secretaria do WIE UFRB - Women in Engineering</p>
        <p>Fui coordenadora do NUBBEP - Núcleo Bahiano de Estudantes de Engenharia de Produção</p>
-       <p>Inglês médio</p>
-       <p>Espanhol intermediario</p>
+       <p>Espanhol intermediário</p>
        <hr>
        <h2>Contatos</h2>
        <p><li><a href="https://www.linkedin.com/in/alice-bispo-498a461a3/" target="_blank"><i class="fab fa-linkedin estilo-icone"></i> Alice-Bispo</a></li>
